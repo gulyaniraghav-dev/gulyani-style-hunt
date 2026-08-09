@@ -158,9 +158,12 @@ cursor:pointer;
 
 .hero{
 
-height:100vh;
+height:65vh;
 
-background:url("shop.jpg") center center/cover no-repeat;
+background-image: url("images/shop.jpg");
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
 
 position:relative;
 
